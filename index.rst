@@ -28,7 +28,7 @@ How Do Download and Setup Canon printer via ij.start.canon?
 
 
 
-Canon printers are known for their high-quality prints, innovative features, and reliability. While `ij.start.canon <https://can.redircoms.com>`_ primarily focuses on wireless setups, it also supports USB connections for both Windows and iOS devices. Install and set up Canon printers from `ij.start.canon <https://can.redircoms.com>`_ to begin producing high-quality printed documents instantly. To avoid any issues during the Canon printer setup, follow the detailed instructions provided below.
+Canon printers are known for their high-quality prints, innovative features, and reliability. While `ij.start.canon <https://can.redircoms.com>`_ primarily focuses on wireless setups, it also supports USB connections for both Windows and iOS devices. Install and set up Canon printers from ij.start.canon  to begin producing high-quality printed documents instantly. To avoid any issues during the Canon printer setup, follow the detailed instructions provided below.
 
 How to Download & Install Canon Printer Driver
 ----------------------------------------------
