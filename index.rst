@@ -1,5 +1,5 @@
 ##################
-How Do Download and Setup Canon printer via ij.start.canon?
+How can I use ij.start.canon to download and set up my Canon printer?
 ##################
 
 .. meta::
